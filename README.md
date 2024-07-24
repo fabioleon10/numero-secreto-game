@@ -1,1 +1,1 @@
-Deploy: https://vercel.com/fabio-leons-projects
+Deploy: https://numero-secreto-game-steel.vercel.app/
